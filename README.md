@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Job Application Tracker
 
 A full-stack application to help users track their job applications across different stages.
@@ -193,9 +193,3 @@ npm run build
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-MIT License
-=======
-# Job-tracker
->>>>>>> 92f827d95b4b20db241f23c021bc8e94a00ccc52
